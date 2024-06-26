@@ -36,7 +36,7 @@ int main()
 	cout << "Age: " << st1.age << endl;
 	cout << "Department:" << st1.department << endl;
 	cout << "Number_of_chambers: " << st1.number_of_chambers << endl;
-	cout << "Phone: " << st1.phone << endl;
+	cout << "Phone: " << st1.phone << endl;s
 	
 	
 	return 0;*/
